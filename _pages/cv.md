@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Download cv here](https://navneetmishra.github.io/files/cv.pdf)
 
-Education
+<!-- Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in St Xavier's college, Mumbai University, 2019-2021
+* B.S. in Thakur college of science and commerce, Mumbai University, 2015-2018
 
 Work experience
 ======

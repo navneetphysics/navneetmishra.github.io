@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Evading no-go for PBH formation and production of SIGWs using Multiple Sharp Transitions in EFT of single field inflation"
+    url: https://arxiv.org/abs/2309.00973/
 
-  - title: "Talks"
-    url: /talks/    
+ # - title: "Talks"
+ #   url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
